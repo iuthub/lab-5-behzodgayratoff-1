@@ -20,7 +20,19 @@ h1, h2 {
     text-align: center;
 }
 
+input[type='text'] {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+select[name="section"] {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
 input[type="submit"] {
     font-size: 2em;
     width: 100%;
+    background-color: lightgray;
+    border-radius: 10px;
 }
